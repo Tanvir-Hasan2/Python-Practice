@@ -23,3 +23,22 @@ print(student_id)
 
 # display type of student_id
 print(type(student_id))
+
+# create a dictionary named capital_city
+capital_city = {'Nepal': 'Kathmandu', 'Italy': 'Rome', 'England': 'London'}
+
+print(capital_city)
+
+# create a dictionary named capital_city
+capital_city = {'Nepal': 'Kathmandu', 'Italy': 'Rome', 'England': 'London'}
+
+print(capital_city['Nepal'])  # prints Kathmandu
+
+print(capital_city['Kathmandu'])  # throws error message 
+
+# create a dictionary named capital_city
+capital_city = {'Nepal': 'Kathmandu', 'Italy': 'Rome', 'England': 'London'}
+
+print(capital_city['Nepal'])  # prints Kathmandu
+
+print(capital_city['Kathmandu'])  # throws error message 
