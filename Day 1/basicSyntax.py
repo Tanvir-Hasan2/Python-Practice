@@ -4,5 +4,12 @@
 #if 5 > 2:
 #  print("Five is greater than two
 
-name = 'Tanvir'
-print(name)
+#basic name print
+#name = 'Tanvir'
+#print(name)
+
+#addition
+n1 = 10
+n2 = 20
+sum = n1+n2
+print('The sum is: ',sum)
