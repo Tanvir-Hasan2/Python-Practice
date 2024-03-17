@@ -13,3 +13,5 @@ n1 = 10
 n2 = 20
 sum = n1+n2
 print('The sum is: ',sum)
+mul = n1*n2
+print('the product of n1 and n2 is : ',mul)
